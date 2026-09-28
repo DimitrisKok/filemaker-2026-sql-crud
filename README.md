@@ -1,3 +1,5 @@
+![The superpower nobody uses - FileMaker 2026 and SQL](media/super_power_2026.png)
+
 # FileMaker 2026 SQL CRUD
 
 Runnable FileMaker examples showing that SQL through ODBC can create and alter
