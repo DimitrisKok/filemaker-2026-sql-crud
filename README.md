@@ -8,6 +8,16 @@ Created by [Dimitris Kokoutsidis](https://github.com/DimitrisKok).
 Companion repository for:
 [The Forgotten Superpower of FileMaker 2026: SQL CRUD](https://axelar.eu/the-forgotten-superpower-of-filemaker-2026-sql-crud/)
 
+## Open the FileMaker Files
+
+Both supplied `.fmp12` files use these FileMaker credentials:
+
+- **Account Name:** `Admin`
+- **Password:** `admin`
+
+These credentials are for the local demonstration files only. Do not reuse
+them in production.
+
 ## What This Demonstrates
 
 The examples use FileMaker's `Execute SQL` script step, the `ExecuteSQL()`
